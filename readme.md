@@ -29,6 +29,4 @@ Click the delete button to remove the task.
 
 ├─ README.md            # Project description
 
-## Acknowledgements
 
-Created with ❤️ by Sweta Mishra
