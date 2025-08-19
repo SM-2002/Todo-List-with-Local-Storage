@@ -75,6 +75,11 @@ li {
   align-items: center;
 }
 
+li:hover {
+  cursor: pointer;
+  background-color: #2d2c2c;
+}
+
 li.completed {
   opacity: 0.7;
 }
